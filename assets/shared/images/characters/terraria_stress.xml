@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="terraria_stress.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="terrariadown0000" x="0" y="0" width="794" height="604" frameX="-48" frameY="0" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0001" x="794" y="0" width="794" height="589" frameX="-39" frameY="-8" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0002" x="1588" y="0" width="794" height="573" frameX="-29" frameY="-16" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0003" x="2382" y="0" width="794" height="557" frameX="-19" frameY="-24" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0004" x="3176" y="0" width="794" height="542" frameX="-10" frameY="-31" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0005" x="3970" y="0" width="794" height="526" frameX="0" frameY="-39" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0006" x="3970" y="0" width="794" height="526" frameX="0" frameY="-39" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0007" x="3970" y="0" width="794" height="526" frameX="0" frameY="-39" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0008" x="3970" y="0" width="794" height="526" frameX="0" frameY="-39" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariadown0009" x="3970" y="0" width="794" height="526" frameX="0" frameY="-39" frameWidth="842" frameHeight="604"/>
+	<SubTexture name="terrariaheh0000" x="4764" y="0" width="613" height="599"/>
+	<SubTexture name="terrariaheh0001" x="5377" y="0" width="613" height="599"/>
+	<SubTexture name="terrariaheh0002" x="5990" y="0" width="613" height="599"/>
+	<SubTexture name="terrariaheh0003" x="6603" y="0" width="613" height="599"/>
+	<SubTexture name="terrariaheh0004" x="7216" y="0" width="613" height="599"/>
+	<SubTexture name="terrariaheh0005" x="0" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0006" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0007" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0008" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0009" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0010" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0011" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0012" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0013" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0014" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0015" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0016" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0017" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0018" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0019" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0020" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0021" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0022" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0023" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0024" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0025" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0026" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0027" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0028" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0029" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0030" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0031" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0032" x="613" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0033" x="1226" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0034" x="1839" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0035" x="1839" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0036" x="2452" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0037" x="3065" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0038" x="3678" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0039" x="4291" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0040" x="4904" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0041" x="5517" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0042" x="6130" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0043" x="6743" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaheh0044" x="7356" y="604" width="613" height="599"/>
+	<SubTexture name="terrariaidle0000" x="0" y="1203" width="616" height="571" frameX="0" frameY="-16" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0001" x="616" y="1203" width="616" height="578" frameX="0" frameY="-12" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0002" x="1232" y="1203" width="615" height="583" frameX="0" frameY="-9" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0003" x="1847" y="1203" width="614" height="588" frameX="0" frameY="-6" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0004" x="2461" y="1203" width="614" height="594" frameX="0" frameY="-3" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0005" x="3075" y="1203" width="613" height="599" frameX="0" frameY="0" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0006" x="3075" y="1203" width="613" height="599" frameX="0" frameY="0" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0007" x="3075" y="1203" width="613" height="599" frameX="0" frameY="0" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0008" x="3075" y="1203" width="613" height="599" frameX="0" frameY="0" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrariaidle0009" x="3075" y="1203" width="613" height="599" frameX="0" frameY="0" frameWidth="616" frameHeight="599"/>
+	<SubTexture name="terrarialeft0000" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0001" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0002" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0003" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0004" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0005" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0006" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0007" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0008" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrarialeft0009" x="3688" y="1203" width="413" height="656"/>
+	<SubTexture name="terrariaright0000" x="4101" y="1203" width="589" height="636" frameX="-53" frameY="0" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0001" x="4690" y="1203" width="605" height="637" frameX="-43" frameY="0" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0002" x="5295" y="1203" width="622" height="637" frameX="-32" frameY="0" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0003" x="5917" y="1203" width="637" height="637" frameX="-22" frameY="0" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0004" x="6554" y="1203" width="654" height="637" frameX="-11" frameY="0" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0005" x="7208" y="1203" width="671" height="636" frameX="0" frameY="-1" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0006" x="7208" y="1203" width="671" height="636" frameX="0" frameY="-1" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0007" x="7208" y="1203" width="671" height="636" frameX="0" frameY="-1" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0008" x="7208" y="1203" width="671" height="636" frameX="0" frameY="-1" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaright0009" x="7208" y="1203" width="671" height="636" frameX="0" frameY="-1" frameWidth="671" frameHeight="637"/>
+	<SubTexture name="terrariaup0000" x="0" y="1859" width="595" height="920"/>
+	<SubTexture name="terrariaup0001" x="595" y="1859" width="595" height="883" frameX="0" frameY="-37" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0002" x="1190" y="1859" width="595" height="847" frameX="0" frameY="-73" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0003" x="1785" y="1859" width="595" height="811" frameX="0" frameY="-109" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0004" x="2380" y="1859" width="595" height="775" frameX="0" frameY="-145" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0005" x="2975" y="1859" width="595" height="739" frameX="0" frameY="-181" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0006" x="2975" y="1859" width="595" height="739" frameX="0" frameY="-181" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0007" x="2975" y="1859" width="595" height="739" frameX="0" frameY="-181" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0008" x="2975" y="1859" width="595" height="739" frameX="0" frameY="-181" frameWidth="595" frameHeight="920"/>
+	<SubTexture name="terrariaup0009" x="2975" y="1859" width="595" height="739" frameX="0" frameY="-181" frameWidth="595" frameHeight="920"/>
+</TextureAtlas>
